@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "notesapp-f68be": {
+      "hosting": {
+        "NotesApp": [
+          "notesapp-f68be"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "notesapp-f68be"
+  }
+}
